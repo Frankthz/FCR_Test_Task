@@ -1,0 +1,61 @@
+2023-12-29 14:53:41 - Synchronization started: ./source -> ./replica
+2023-12-29 14:53:41 - Synchronization successful
+2023-12-29 14:54:41 - Synchronization started: ./source -> ./replica
+2023-12-29 14:54:41 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 14:54:41 - Synchronization successful
+2023-12-29 15:08:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:08:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:08:23 - Synchronization successful
+2023-12-29 15:09:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:09:23 - Copied: ./source\CV\test\CV FCR_eng.pdf -> ./replica\CV\test\CV FCR_eng.pdf
+2023-12-29 15:09:23 - Removed: ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:09:23 - Synchronization successful
+2023-12-29 15:10:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:10:23 - Copied: ./source\CV\test\CV FCR_eng.pdf -> ./replica\CV\test\CV FCR_eng.pdf
+2023-12-29 15:10:23 - Synchronization successful
+2023-12-29 15:11:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:11:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:11:23 - Removed: ./replica\CV\test\CV FCR_eng.pdf
+2023-12-29 15:11:23 - Synchronization successful
+2023-12-29 15:12:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:12:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:12:23 - Synchronization successful
+2023-12-29 15:13:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:13:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:13:23 - Synchronization successful
+2023-12-29 15:14:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:14:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:14:23 - Synchronization successful
+2023-12-29 15:15:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:15:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:15:23 - Synchronization successful
+2023-12-29 15:16:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:16:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:16:23 - Synchronization successful
+2023-12-29 15:17:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:17:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:17:23 - Synchronization successful
+2023-12-29 15:18:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:18:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:18:23 - Synchronization successful
+2023-12-29 15:19:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:19:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:19:23 - Synchronization successful
+2023-12-29 15:20:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:20:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:20:23 - Synchronization successful
+2023-12-29 15:21:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:21:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:21:23 - Synchronization successful
+2023-12-29 15:22:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:22:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:22:23 - Synchronization successful
+2023-12-29 15:23:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:23:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:23:23 - Synchronization successful
+2023-12-29 15:24:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:24:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:24:23 - Synchronization successful
+2023-12-29 15:25:23 - Synchronization started: ./source -> ./replica
+2023-12-29 15:25:23 - Copied: ./source\CV\CV FCR_eng.pdf -> ./replica\CV\CV FCR_eng.pdf
+2023-12-29 15:25:23 - Synchronization successful
